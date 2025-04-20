@@ -1,0 +1,37 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Economy Car - Toyota Corolla"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "Luxury Car - Mercedes S-Class"
+  },
+  {
+    "city": "petalborough",
+    "kind": "rental_car",
+    "title": "SUV - Honda CR-V"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "Compact Car - Honda Civic"
+  },
+  {
+    "city": "rustburg",
+    "kind": "rental_car",
+    "title": "Family Van - Chrysler Pacifica"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Pickup Truck - Ford F-150"
+  },
+  {
+    "city": "shaleport",
+    "kind": "rental_car",
+    "title": "Sports Car - Chevrolet Camaro"
+  }
+] 

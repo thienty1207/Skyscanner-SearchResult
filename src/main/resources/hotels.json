@@ -1,0 +1,42 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Grand Petals Hotel & Spa"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Petal View Inn"
+  },
+  {
+    "city": "petalborough",
+    "kind": "hotel",
+    "title": "Petalborough Suites"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Rustic Lodge"
+  },
+  {
+    "city": "rustburg",
+    "kind": "hotel",
+    "title": "Industrial Chic Hotel"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Shaleport Harbor Hotel"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Coastal Breeze Resort"
+  },
+  {
+    "city": "shaleport",
+    "kind": "hotel",
+    "title": "Shale Rock Boutique Hotel"
+  }
+] 
